@@ -1,4 +1,4 @@
-# https://wordhunt.tech 
+# https://gamepigeon.win ~~https://wordhunt.tech~~
 # Screenshot-based iMessage Game Cheats
  
 GamePigeon solvers for:
@@ -12,4 +12,5 @@ Online tools to solve Word Hunt, Tanks, Four-in-a-row, and anagrams, faster than
 
 
 App Link: 
-https://wordhunt.tech
+https://gamepigeon.win
+~~https://wordhunt.tech~~
